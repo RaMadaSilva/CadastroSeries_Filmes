@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ControleSeriesFilmes/1.0.0": {
+        "runtime": {
+          "ControleSeriesFilmes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControleSeriesFilmes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

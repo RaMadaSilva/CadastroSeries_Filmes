@@ -1,0 +1,16 @@
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ControleSeriesFilmes.csproj.AssemblyReference.cache
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ControleSeriesFilmes.GeneratedMSBuildEditorConfig.editorconfig
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ControleSeriesFilmes.AssemblyInfoInputs.cache
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ControleSeriesFilmes.AssemblyInfo.cs
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ControleSeriesFilmes.csproj.CoreCompileInputs.cache
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\bin\Debug\net5.0\ControleSeriesFilmes.exe
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\bin\Debug\net5.0\ControleSeriesFilmes.deps.json
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\bin\Debug\net5.0\ControleSeriesFilmes.runtimeconfig.json
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\bin\Debug\net5.0\ControleSeriesFilmes.runtimeconfig.dev.json
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\bin\Debug\net5.0\ControleSeriesFilmes.dll
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\bin\Debug\net5.0\ref\ControleSeriesFilmes.dll
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\bin\Debug\net5.0\ControleSeriesFilmes.pdb
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ControleSeriesFilmes.dll
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ref\ControleSeriesFilmes.dll
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ControleSeriesFilmes.pdb
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\ControleSeriesFilmes\ControleSeriesFilmes\obj\Debug\net5.0\ControleSeriesFilmes.genruntimeconfig.cache
